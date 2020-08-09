@@ -2,7 +2,7 @@
 
 A simplistic 2D platformer game resembling Mario Bros.
 
-![alt text](https://i.imgur.com/3HEMNGK.png
+![Picture of game](https://i.imgur.com/3HEMNGK.png)
 
 ## Running the game
 
