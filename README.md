@@ -2,7 +2,7 @@
 
 A simplistic 2D platformer game resembling Mario Bros.
 
-![alt text](https://imgur.com/3HEMNGK)
+![alt text](https://i.imgur.com/3HEMNGK.png
 
 ## Running the game
 
@@ -21,7 +21,9 @@ Python
 ## Work of
 
 **Sajjad Brohi**
+
 Responsible for a1.py and level generation
 
 **CSSE7030 - University of Queensland**
+
 Provided all the other files as a starter for an assignment
